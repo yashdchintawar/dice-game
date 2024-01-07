@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/personal-mini-projects/dice-game/static/css/main.fe2bdedd.css",
+    "main.js": "/personal-mini-projects/dice-game/static/js/main.0c21471a.js",
+    "index.html": "/personal-mini-projects/dice-game/index.html",
+    "main.fe2bdedd.css.map": "/personal-mini-projects/dice-game/static/css/main.fe2bdedd.css.map",
+    "main.0c21471a.js.map": "/personal-mini-projects/dice-game/static/js/main.0c21471a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2bdedd.css",
+    "static/js/main.0c21471a.js"
+  ]
+}
